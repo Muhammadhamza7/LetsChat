@@ -33,7 +33,7 @@ useEffect(() =>{
       <p className="mb-5">
       "Welcome to Let’s Chat – Where conversations flow and connections grow."
       </p>
-      <button className="btn " onClick={handleLogin}>
+      <button className="btn  bg-gray-800  text-lime-100" onClick={handleLogin}>
   <svg
     xmlns="http://www.w3.org/2000/svg"
     width="24"

@@ -15,7 +15,7 @@ const Navbar = () => {
   return (
     <div className="navbar bg-gray-800 bg-base-100  sticky top-0 z-50">
     <div className="navbar-start">
-      <a className="btn btn-ghost text-xl font-extrabold" >
+      <a className="btn btn-ghost text-xl text-lime-100 font-extrabold " >
       <img src="https://cdn-icons-png.flaticon.com/512/5671/5671959.png" className="h-10 w-10 rounded-full"></img>
         Let's Chat</a>
     </div>
